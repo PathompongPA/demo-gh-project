@@ -13,9 +13,10 @@ let style = {
 
     btn: {
         SignIn: cva([
-            "p-4 bg-60 rounded-lg text-white font-bold text-2xl ",
+            "p-4",
+            "bg-60 rounded-lg text-white font-bold text-2xl ",
             "hover:cursor-pointer",
-            " duration-300 hover:bg-80 "
+            "duration-300 hover:bg-80"
         ])
     }
 }
